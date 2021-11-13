@@ -65,6 +65,10 @@ void main(){
   var nums=23.433;
   double exponet=1.42e5;
 
+  //All Datatype in dart is object there for it's value is Null By Default
+  var school;
+  print(school);
+
 
 
 
