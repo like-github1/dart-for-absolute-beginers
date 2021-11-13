@@ -4,8 +4,7 @@ introduction to dart programing languges
  //in these Tutorials we learn everything abut Dart Programing Languges
   //we learn all fundamental of Dart programing languges
   //this course have 12 section
-  //01 Dart Installation and Enviroment Setup
-  //02 Writing our first app
+ 
   //03 Build in data types
   //04 Conditional Satatement
   //05 loop control statement
