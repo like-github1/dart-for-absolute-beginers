@@ -3,15 +3,16 @@ introduction to dart programing languges
 
  //in these Tutorials we learn everything abut Dart Programing Languges
   //we learn all fundamental of Dart programing languges
-  this course have 12 section    
-  01 Dart Installation and Enviroment Setup     
-  02 Writing our first app  
-  03 Build in data types  
-  04 Conditional Satatement  
-  05 loop control statement  
-  06method and function  
-  07 Exception handling in dart  
-  08 Functional Programing  
-  09 object Oriendet programing and Inheritance  
-  10 Dart collection Frameworkd  
+What You'll Learn:  
+1. Dart Setup and required software Installation   
+2. Exploring the first Dart application   
+3. Built-in Data Types and variable declarations   
+4. Conditional Statements   
+5. Loops   
+6. Functions and Methods  
+7. Exception Handling   
+8. Object Oriented concepts   
+9. Inheritance, Abstract Class, Interface and Polymorphism   
+10. Functional Programming: Lambdas and Higher-Order Functions  
+11. Dart Collection: List, Set and Map   
 
