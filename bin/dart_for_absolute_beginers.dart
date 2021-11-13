@@ -5,4 +5,6 @@ void main() {
       43); //you can also print the sum and sub, multi, and substruction of a number
   print(50 ~/ 4); //print only digits
   print(50 % 8); //print the remainder of the number after dividing
+  print(false);//boolean can also be printed.
+
 }
