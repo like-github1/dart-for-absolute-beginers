@@ -70,6 +70,14 @@ void main(){
   print(school);
 
 
+  //Literals
+  //ways  to write literals
+  //String Interpolations
+  //the following are called literals
+  //01 "am literals",23, false,true,
 
-
+  int age 31;
+  String namess="solomon girma";
+  bool newbool= false;
+  
 }
