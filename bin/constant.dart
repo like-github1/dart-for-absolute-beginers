@@ -48,6 +48,8 @@ const var c = 6;*/
    a constructor and make all the fields as final like mentioned below.*/
 
   const obj1 = anima(5, 8);
+  var obj2 = anima(7, 12);
+
   print(obj1);
 }
 
