@@ -83,4 +83,13 @@ void main() {
 
   //String interpolation in number of characters
   print("the number of characcter is " + namee.length.toString());
+
+  print("the number of character is ${name.length}");
+
+  //number String interoplation
+  int a = 12;
+  int b = 4;
+  int sum = a + b;
+  print("the sum of a and b is ${a + b}");
+  print("the sum of a and b is " + sum.toString());
 }
