@@ -14,6 +14,7 @@ void main() {
 
   //Switch case Statement
   //for switch case statement the parameter must be intiger and String
+  //Passing a boolean and double value is not allowed.
   switch (age) {
     case 20:
       print("your age is 20");
