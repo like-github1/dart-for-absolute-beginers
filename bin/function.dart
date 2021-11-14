@@ -9,16 +9,35 @@ void main() {
   //06  optional  positional  parameters
   //07 positional   named optional
   //optional default paremetr
-  int sum = function(4, 6);
+  int sum = function(4, 2);
   print(sum);
   functions(4, 5);
+  finaArea("new Jercy", "new work", "japan");
+  finaAreas("SOLOMON", name1: "TADESE");
 }
 
-int function(int length, int width) {
-  int area = length * width;
-  return area;
+//Function as Expressions
+int function(int length, int width) => length * width;
+//Function Expression trim log code to short
+void functions(int length, int width) =>
+    print("the perimeter is ${length * width}");
+//optional parameters
+void finaArea(String cityname1, String cityname2,
+    [String? cityname3 = "australiya"]) {
+  print("first city $cityname1");
+  print("first city $cityname2");
+  print("first city $cityname3");
+
+  defaults(1, 1);
 }
 
-void functions(int length, int width) {
-  print(length * width);
+void finaAreas(String cityname1, {String? name1, String? name2}) {
+  print("first city $cityname1");
+  print("first city $name1");
+  print("first city $name2");
+}
+
+//optional Default parameters
+void defaults(int name1, int name2, {int name3 = 2}) {
+  print('the area is ${name1 + name2 + name3}');
 }
